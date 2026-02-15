@@ -1,31 +1,24 @@
 👋 <b>About Me</b><br><br>
-
 I break things in controlled environments so they don’t break in production.<br><br>
-
 Currently building hands-on experience across IT support, access management, and secure system operations — with a strong bias toward documentation, least privilege, and fixing root causes instead of rebooting and hoping for the best.<br><br>
-
 Security-aware by default, support-first by practice.<br><br>
 
 🛠 <b>What I’m Working On</b><br><br>
-
 • Identity and access workflows (RBAC, MFA, SSO)<br>
 • Secure system hardening and monitoring<br>
 • Projects that make auditors nod and users stop emailing IT<br><br>
 
 🧠 <b>Currently Learning</b><br><br>
-
 • How good documentation prevents 80% of incidents<br>
 • Why every “quick fix” eventually becomes technical debt<br>
 • The art of saying “this is expected behavior” with a straight face<br><br>
 
 💬 <b>Ask Me About</b><br><br>
-
 • Access control gone wrong<br>
 • Why logs matter <i>after</i> something breaks<br>
 • Turning security theory into operational reality<br><br>
 
 🎯 <b>Fun Fact</b><br><br>
-
 I trust logs more than memory — and I always check permissions before blaming the network.
 
 
